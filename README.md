@@ -1,6 +1,6 @@
-# 🌐 Projet Web – Plateforme Agricole & Marketplace
+# Projet Web – Plateforme Agricole & Marketplace
 
-## 📌 Présentation du projet
+## Présentation du projet
 Ce projet web est une plateforme moderne dédiée à la valorisation de la production agricole
 et à la mise en relation entre producteurs et consommateurs.
 
@@ -12,7 +12,7 @@ Le site permet de :
 
 ---
 
-## 🎯 Objectifs du site
+## Objectifs du site
 - Centraliser les informations agricoles
 - Améliorer la visibilité des producteurs locaux
 - Offrir une interface claire, moderne et responsive
@@ -21,12 +21,12 @@ Le site permet de :
 
 ---
 
-## 🖥️ Aperçu général du site
+## Aperçu général du site
 ![Aperçu global](images/banniere.png)
 
 ---
 
-## 📊 Statistiques agricoles
+## Statistiques agricoles
 Cette section présente des indicateurs clés tels que :
 - Quantité de production
 - Nombre d’emplois agricoles
@@ -36,7 +36,7 @@ Cette section présente des indicateurs clés tels que :
 
 ---
 
-## 💰 Prix du marché
+## Prix du marché
 Les utilisateurs peuvent consulter les prix actualisés des produits agricoles
 afin d’avoir une meilleure visibilité sur le marché.
 
@@ -44,7 +44,7 @@ afin d’avoir une meilleure visibilité sur le marché.
 
 ---
 
-## 🛒 Produits & marketplaces
+## Produits & marketplaces
 La plateforme met en avant les produits disponibles ainsi que les producteurs partenaires.
 
 ![Produits agricoles](images/image3.png)
@@ -52,7 +52,7 @@ La plateforme met en avant les produits disponibles ainsi que les producteurs pa
 
 ---
 
-## 🌍 Valeurs & engagements
+## Valeurs & engagements
 Le projet s’inscrit dans une démarche :
 - Durable
 - Équitable
@@ -61,7 +61,7 @@ Le projet s’inscrit dans une démarche :
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 - HTML5
 - CSS3
 - JavaScript
