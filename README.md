@@ -62,10 +62,6 @@ Le projet s’inscrit dans une démarche :
 ---
 
 ## Technologies utilisées
-- HTML5
-- CSS3
-- JavaScript
-- Design responsive
-- Assets graphiques optimisés
-
+- HTML
+- CSS
 ---
